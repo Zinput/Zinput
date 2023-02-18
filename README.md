@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zinput
 - 👀 I’m interested in ... Linux
 - 🌱 I’m currently learning ... Linux
-- 💞️ I’m looking to collaborate on ... Getting Linux working for my Zephyrus G14 2022
+- 💞️ I’m looking to collaborate on ... Freedom software
 - 📫 How to reach me ... My email
 
 <!---
